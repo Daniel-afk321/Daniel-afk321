@@ -44,14 +44,13 @@
 ### Studying in this moment:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 <div align="center">
 
-  ![Snake animation](https://github.com/Daniel-afk321/Daniel-afk321/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/<Daniel-afk321
+>/<Daniel-afk321
+>/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
