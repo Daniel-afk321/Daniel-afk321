@@ -45,14 +45,9 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117"/>
 
 
-<div align="center">
-
-  ![Snake animation](https://github.com/Daniel-afk321
+![snake gif](https://github.com/Daniel-afk321
 /Daniel-afk321
 /blob/output/github-contribution-grid-snake.svg)
-
-  
-</div>
 
 
 <div align="center">
