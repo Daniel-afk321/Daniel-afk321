@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Oliveira;I'm+21+years+old;I'm+from+Brazil;I+Graduated+Games+Development;I+am+also+a+computer+technician+for+the+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel-afk321&bg_color=0d1117&color=00FF00&line=FF8C00&point=ADFF2F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Daniel-afk321&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
